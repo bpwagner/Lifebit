@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a98e890692f4442ef7a18c06218114cd70c313c">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b0147ea9a2f800dd6e185f5c6bc655b15ca3b71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\473962e5203fce6980cb168787ce5710b750e400\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c394199a0ab8747fce137e5b6ad2c0be113a770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\6d8bd857f06b620dfd3216abb5ec30a8ab6cedd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ff76c1423df7d15fc5aa17aa590e227e6061d37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\649305fdd3da9c1e25c0fe0b74a1c0b76c851699\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c39e7e7cd7144bef07acd60f73391d373da9e842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\ef04662605bc031782a09b7031834bdc6f9d4e6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf6f89e87f3a798a239cc7cd33dde4e4aef9823c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_711c44c25522143f79ce61d2db3dd6e24686e8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\ad7e7f1ac480b6a7d494698e0da2c03f434f8145\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2389fdbdaad00b76327155df874ce847a8ed7a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\d8616b0790baeba86477fb827bc7948407814bda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f15d97a4c0565ea7f6cbc233e55c6387ce702b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\04370cd16b7fbe6359e3fcea0d0fc4c0098a62b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4907ed41f26bba1336d3af5ea702be510b224afd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\f034f86ab2039b581cc97942aac71a6d10d043b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3c1b497ef6db242d43bddaf9749ee2ea035d05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\4edd9a655fa810ca3061226fad53f0fa9b3ca666\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aeb6b15b075af92335a900e876831964e6e7b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\e257f2aae5c04bab2b114cce99edb075a4d0ca30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8e3de447323f3fc91ae435335d6d230a2067201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\4eda61fcd440ca1a15eb14b9b68689fb12c464ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ff72480b86f127958cbbd292baa45c859eecb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\3e09ea898f8b3e2cbd659c669ebde9da3c000ca1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d81fc425b76ea34d0254b8bde73a0b305d984cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\918de68ef553de5f0199dd11a346ef390217c0fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f457a803b45dd396294fa6be72e360c65886e1a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ba81f127b135069e9ba02d1d7c6876f8b80febc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Brian\AndroidStudioProjects\LifeBit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5d2c0aa77c913fa58514a03fc37a104723b67da5\classes.dex" />
+    </item>
+
+</items>
